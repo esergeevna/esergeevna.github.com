@@ -43,15 +43,16 @@ $(document).ready(()=>{
                     <div class="hero-nav__dropdown dropdown dropdown--of-1-columns">
                       <div class="row flex-wrap">
                         <div class="col-lg-12"><span class="dropdown__title mt-0">Для педагогов</span>
-                        <a href="https://google.com" target="_blank" class="dropdown__link">
+                        <a href="./ber-teh.html" target="_blank" class="dropdown__link">
                             <div><span class="dropdown__icon"><i class="fas fa-globe"></i></span></div><!-- Don't remove this empty "span" --><span class="mx-2"></span><!-- ------------------------------ -->
-                            <div class="dropdown__item"><span class="dropdown__item-title">Игра на ДМИ</span>
-                              <p class="dropdown__item-description">It's time to write a sales copy for your landing page for FREE.</p>
+                            <div class="dropdown__item"><span class="dropdown__item-title">Бережливые технологии</span>
+                              <p class="dropdown__item-description">БЕРЕЖЛИВЫЕ ТЕХНОЛОГИИ В КАБИНЕТЕ МУЗЫКАЛЬНОГО РУКОВОДИТЕЛЯ..</p>
                             </div>
                         </a>
-                        <a href="#" class="dropdown__link">
+ 
+                        <a href="./scenarii.html" class="dropdown__link">
                             <div><span class="dropdown__icon"><i class="fas fa-pen"></i></span></div><!-- Don't remove this empty "span" --><span class="mx-2"></span><!-- ------------------------------ -->
-                            <div class="dropdown__item"><span class="dropdown__item-title">Слушание музыки</span>
+                            <div class="dropdown__item"><span class="dropdown__item-title">Сценарии</span>
                               <p class="dropdown__item-description">Build a beautiful landing page by copy-paste.</p>
                             </div>
                         </a>
@@ -75,16 +76,16 @@ $(document).ready(()=>{
                       </svg></span>
                     <div class="hero-nav__dropdown dropdown dropdown--of-1-columns">
                       <div class="row flex-wrap">
-                        <div class="col-lg-12"><span class="dropdown__title mt-0">MARKETING PRODUCTS</span>
+                        <div class="col-lg-12"><span class="dropdown__title mt-0">Инновационная деятельность</span>
                           <a href="inov_muz.html" target="_blank" class="dropdown__link">
                             <div><span class="dropdown__icon"><i class="fas fa-globe"></i></span></div><!-- Don't remove this empty "span" --><span class="mx-2"></span><!-- ------------------------------ -->
                             <div class="dropdown__item"><span class="dropdown__item-title">Музыкотерапия</span>
-                              <p class="dropdown__item-description">It's time to write a sales copy for your landing page for FREE.</p>
+                              <p class="dropdown__item-description">Музыкотерапия – важная составляющая музыкально-оздоровительной работы ДОУ</p>
                             </div>
-                          </a><a href="#" class="dropdown__link">
+                          </a><a href="./kinozalogiya.html" class="dropdown__link">
                             <div><span class="dropdown__icon"><i class="fas fa-pen"></i></span></div><!-- Don't remove this empty "span" --><span class="mx-2"></span><!-- ------------------------------ -->
                             <div class="dropdown__item"><span class="dropdown__item-title">Кинезиология</span>
-                              <p class="dropdown__item-description">Build a beautiful landing page by copy-paste.</p>
+                              <p class="dropdown__item-description">КИНЕЗИОЛОГИЧЕСКИЕ ПРИЕМЫ В РАБОТЕ С ДЕТЬМИ НА МУЗЫКАЛЬНЫХ ЗАНЯТИЯХ В ДОУ.</p>
                             </div>
                           </a>
                       </div>
@@ -114,6 +115,7 @@ $(document).ready(()=>{
                         </div>
                       </div>
                     </li>
+                    <li class="hero-nav__item"><a href="./index.html" class="hero-nav__link">Главная</a></li>
                   </ul>
                 </li>
               </ul><button close-nav-menu="" class="ft-menu__close-btn animated"><svg class="bi bi-x" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
