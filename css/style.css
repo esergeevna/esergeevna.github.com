@@ -147,7 +147,7 @@ button:focus {
 
 @media(min-width: 992px) {
   .block__paragraph--big {
-    font-size: 1.2rem;
+    font-size: 2.2rem;
     line-height: 1.6;
   }
 }
@@ -1563,6 +1563,12 @@ border-radius: 10rem
     width: 51%!important;
     margin: 0;
 }
+.bteh .d-flex{
+  width: 50%!important;
+}
+.slider img{
+  margin: 0 10px;
+}
 }
 
 @media (max-width:992px) {
@@ -1570,4 +1576,17 @@ border-radius: 10rem
     width: 100%;
     height: 100%;
   }
+  .bteh .d-flex{
+    margin-bottom: 10px;
+  }
+  .moc a {
+    font-size: 3vw!important;
+    margin-top: 10px!important;
+  }
+}
+
+
+.slider{
+  margin: 50px auto;
+max-width: 1140px;
 }
