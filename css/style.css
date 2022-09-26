@@ -1581,19 +1581,22 @@ border-radius: 10rem
     font-size: 3vw!important;
     margin-top: 10px!important;
   }
+  .slider_pre {
+    width: auto;
+  }
+  .slider a img {
+    width: auto!important;
+    max-width: 100%;
+}
 }
 
 .slider{
-  /* margin: 50px auto;
-max-width: 1140px; */
 position: relative;
-/* margin: 0 50px; */
 }
 .slider_pre {
   display: inline-block;
   max-width: 1080px;
   width: 100%;
-  /* padding: 0 50px; */
   overflow: hidden;
 }
 .slider_prepre {
