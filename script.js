@@ -236,7 +236,7 @@ $(document).ready(()=>{
           <li class="mx-2"><a href="#!" class="block-41__extra-link m-0"><i class="fas fa-envelope"></i></a></li>
         </ul>
       </div>
-      <p class="block-41__copyrights">© 2022 <a href="esergeevna.github.io">esergeevna.github.io</a>. All Rights Reserved.</p>
+      <p class="block-41__copyrights">© 2022 <a href="https://esergeevna.github.io">esergeevna.github.io</a>. All Rights Reserved.</p>
     </div>
   </div>
     `)
